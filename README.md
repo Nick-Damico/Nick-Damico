@@ -1,7 +1,7 @@
-## 👋 Nicholas D'Amico | Full-Stack Web Developer
+## Ruby On Rails | Full-Stack Web Developer
 
 <p>
-  I am a passionate full-stack developer based in East Tennessee, with over 4 years of coding experience. What started as a hobby quickly turned into a career aspiration, as I realized my love for coding and the desire to pursue it professionally.
+  I'm a full-stack developer based in East Tennessee, with over 4 years of coding experience. What started as a hobby quickly turned into a career aspiration, as I realized my enjoyment for coding and the desire to pursue it professionally.
 </p>
 
 <p>
