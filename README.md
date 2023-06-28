@@ -20,6 +20,26 @@ With my combined education, hobbyist background, and professional training, I am
 
 ### Skills
 
+<img style="width:48px; padding-right: 10px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+
+<img style="width: 48px; padding-right: 10px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+
+<img style="width: 48px; padding-right: 5ppx" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+        
+<img style="width: 48px; padding-right: 5px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+          
+<img style="width: 42px; padding-right: 10px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<img style="width: 42px; padding-right: 10px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+          
+<img style="width: 48px; padding-right: 10px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+
+<img style="width: 48px; padding-right: 10px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+         
+<img style="width: 48px; padding-right: 10px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+<img style="width: 48px; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
 ---
 
 ### What I'm Up To...
@@ -32,5 +52,3 @@ With my combined education, hobbyist background, and professional training, I am
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
----
