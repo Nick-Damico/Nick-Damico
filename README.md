@@ -1,3 +1,5 @@
+<hr style="background-color: aqua; height: 1px;" />
+
 ## 🖥 Ruby On Rails | Full-Stack Web Developer
 
 <p>
@@ -16,7 +18,7 @@ Seeking to expand my knowledge and enhance my capabilities, I made the decision 
 With my combined education, hobbyist background, and professional experience, I am well-prepared to contribute my expertise and passion to impactful projects.
 </p>
 
----
+<hr style="background-color: aqua; height: 1px;" />
 
 ### 🛠 Skills
 
@@ -40,7 +42,7 @@ With my combined education, hobbyist background, and professional experience, I 
 
 ## <img style="width: 48px; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 
----
+<hr style="background-color: aqua; height: 1px;" />
 
 ### 📆 What I'm Up To...
 
