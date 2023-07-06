@@ -26,7 +26,7 @@ With my combined education, hobbyist background, and professional experience, I 
          
 <img style="width: 42px; padding-right: 10px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
-<img style="width: 48px; padding-right: 5ppx" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img style="width: 48px; padding-right: 5px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
         
 <img style="width: 48px; padding-right: 5px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 
