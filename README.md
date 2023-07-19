@@ -5,15 +5,15 @@
 </p>
 
 <p>
-In 2016, I made a life-changing decision to embark on a career path aligned with my passion. I enrolled in a <strong>Techdegree program with Treehouse</strong> and successfully completed it in March 2017. This intensive program provided me with a solid foundation in web development and strengthened my skills in various technologies.
+In 2016, I made a life-changing decision to embark on a career path aligned with my passion. I enrolled in a <strong>Techdegree program with Treehouse</strong> and successfully completed it in March 2017. This intensive program provided me with a solid foundation in web development and strengthened my skills in various technologies like HTML5, CSS, and JavaScript.
 </p>
 
 <p>
-Seeking to expand my knowledge and enhance my capabilities, I made the decision to further my education at <strong>Flatiron Coding Bootcamp</strong>. There, I immersed myself in the coding program and graduated on March 14th, 2018. This experience deepened my understanding of software development and equipped me with practical skills to tackle real-world challenges.
+Seeking to expand my knowledge and enhance my capabilitie, I made the decision to further my education at <strong>Flatiron Coding Bootcamp</strong>. There, I immersed myself in the coding program and graduated on March 14th, 2018. This experience deepened my understanding of software development and equipped me with skills to tackle real-world challenges.
 </p>
 
 <p>
-With my combined education, hobbyist background, and professional experience, I am well-prepared to contribute my expertise and passion to impactful projects.
+With my combined education, hobbyist background, and professional experience, I am prepared to contribute my expertise and passion to exciting projects.
 </p>
 
 ---
