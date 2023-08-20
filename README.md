@@ -9,7 +9,7 @@ In 2016, I made a life-changing decision to embark on a career path aligned with
 </p>
 
 <p>
-Seeking to expand my knowledge and enhance my capabilitie, I made the decision to further my education at <strong>Flatiron Coding Bootcamp</strong>. There, I immersed myself in the coding program and graduated on March 14th, 2018. This experience deepened my understanding of software development and equipped me with skills to tackle real-world challenges.
+Seeking to expand my knowledge and enhance my capabilities, I made the decision to further my education at <strong>Flatiron Coding Bootcamp</strong>. There, I immersed myself in the coding program and graduated on March 14th, 2018. This experience deepened my understanding of software development and equipped me with skills to tackle real-world challenges.
 </p>
 
 <p>
