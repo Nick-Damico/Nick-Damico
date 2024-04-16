@@ -45,7 +45,7 @@ With my combined education, hobbyist background, and professional experience, I 
 ### 📆 What I'm Up To...
 
 - 🌱 **I’m currently learning:** _Next.js, ✅ Docker, and brushing up my skills in React._
-- 📫 **Job Searching:** _I was recently laid off due to a staff reduction. If you are interested in discussing opportunities, please feel free to connect with me._
+- 📫 **Job Searching:** _I was recently laid off due to a staff reduction. I'm currently doing contract Ruby On Rails work but looking for my next full-time role. If you are interested in discussing opportunities, please feel free to connect with me._
 
 <!-- - 🔭 I’m currently working on: **
 - 👯 I’m looking to collaborate on ...
