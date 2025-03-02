@@ -9,7 +9,7 @@ In 2016, I made a decision to embark on a career change. I enrolled in a <strong
 </p>
 
 <p>
-Wanting to further my knowledge and skill with backend programming, I made the decision to further my education at <strong>Flatiron Coding Bootcamp</strong>. There, I immersed myself in the coding program and graduated on March 14th, 2018. This experience deepened my understanding of software development and equipped me with skills to tackle real-world challenges.
+Wanting to further my knowledge and skill with backend programming, I decided to continue my education at <strong>Flatiron Coding Bootcamp</strong>. There, I immersed myself in the coding program and graduated on March 14th, 2018. This experience deepened my understanding of software development and equipped me with skills to tackle real-world challenges.
 </p>
 
 <p>
