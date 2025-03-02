@@ -1,7 +1,7 @@
 ## 🖥 Ruby On Rails | Full-Stack Web Developer
 
 <p>
-  I'm a full-stack developer based in East Tennessee, with over 4 years of coding experience. What started as a hobby quickly turned into a career aspiration, as I realized my enjoyment for coding and the desire to pursue it professionally.
+  I'm a full-stack developer based in East Tennessee, with over 4 years of professional experience. What started as a hobby quickly became a career aspiration, as I realized my enjoyment of coding and desire to pursue it professionally.
 </p>
 
 <p>
